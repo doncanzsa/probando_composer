@@ -8,5 +8,8 @@
 </head>
 <body>
     <h1>Realizando cambio en Index Inventario</h1>
+    <div class="container">
+        <p>Creando contenido</p>
+    </div>
 </body>
 </html>
