@@ -1,0 +1,8 @@
+{
+    "name":  "test/composer",
+    "description": "Probando el uso de composer",
+    "require" : {
+        "fideloper/proxy": "4.0",
+        "dompdf/dompdf": "^1.0"
+    }
+}
