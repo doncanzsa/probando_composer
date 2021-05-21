@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    Inventario
+    <h1>Realizando cambio en Index Inventario</h1>
 </body>
 </html>
