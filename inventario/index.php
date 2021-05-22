@@ -10,6 +10,7 @@
     <h1>Realizando cambio en Index Inventario</h1>
     <div class="container">
         <p>Creando contenido</p>
+        <pre>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nesciunt enim cupiditate, incidunt sunt aut repellat illo unde adipisci ab aspernatur, non earum omnis illum, fugit labore deleniti sapiente sint vel.</pre>
     </div>
 </body>
 </html>
